@@ -1,12 +1,12 @@
 package sample;
 
 import com.sun.javafx.geom.Vec2d;
-
 import static java.lang.Math.pow;
 
 /**
  * Created by Jordan on 21/08/2017.
  */
+
 
 public class Bezier {
 
